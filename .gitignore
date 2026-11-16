@@ -1,0 +1,16 @@
+# Python
+myenv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Node / Vite
+node_modules/
+dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
